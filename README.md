@@ -76,4 +76,5 @@ Queries:
 Database Information:
 
 <img width="766" alt="Screenshot 2025-03-13 at 11 33 28 PM" src="https://github.com/user-attachments/assets/ceec3759-0fbe-4656-a583-efdf1a092873" />
+
 Name of the database: ha_group3_crn71552
