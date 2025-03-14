@@ -25,14 +25,22 @@ The Employee entity tracks pharmacy staff, including their roles and store assig
 The relationships between these entities ensure efficient tracking of patient prescriptions, medicine inventory, doctor interactions,
 ales transactions, and pharmacy staff management, forming a comprehensive pharmacy management system.
 s<img width="730" alt="Screenshot 2025-03-13 at 10 55 43 PM" src="https://github.com/user-attachments/assets/82ebc201-5593-4316-a360-b73ca7b83d91" />
+
 Data Dictionary:
 <img width="427" alt="Screenshot 2025-03-13 at 10 58 26 PM" src="https://github.com/user-attachments/assets/77519323-c93d-4552-a628-0efb8be8fdec" />
+
 <img width="382" alt="Screenshot 2025-03-13 at 10 59 19 PM" src="https://github.com/user-attachments/assets/b50e05c3-a59a-4426-9265-48f2ef4bdb26" />
+
 <img width="398" alt="Screenshot 2025-03-13 at 10 59 34 PM" src="https://github.com/user-attachments/assets/e9ae43b9-4044-4e8c-8950-0c9a0b105607" />
+
 <img width="372" alt="Screenshot 2025-03-13 at 10 59 49 PM" src="https://github.com/user-attachments/assets/6bafd056-cb1a-45fe-9ce0-297870a4268d" />
+
 <img width="371" alt="Screenshot 2025-03-13 at 11 00 06 PM" src="https://github.com/user-attachments/assets/403e8e10-eb5c-46b9-9686-c12411ef3172" />
+
 <img width="369" alt="Screenshot 2025-03-13 at 11 00 20 PM" src="https://github.com/user-attachments/assets/51e14c60-60eb-499a-8f71-cf017d40c878" />
+
 <img width="384" alt="Screenshot 2025-03-13 at 11 00 33 PM" src="https://github.com/user-attachments/assets/1276c32f-89b8-42f7-945f-d28b9f0af820" />
+
 Queries:
 
 Database Information:
